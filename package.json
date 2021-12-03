@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Maxi-rpc/nodejs-typescript-mysql-restapi/issues"
   },
-  "homepage": "https://github.com/Maxi-rpc/nodejs-typescript-mysql-restapi#readme"
+  "homepage": "https://github.com/Maxi-rpc/nodejs-typescript-mysql-restapi#readme",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
 }
